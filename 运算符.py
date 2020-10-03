@@ -45,5 +45,24 @@ print(i)
 
 x = 3
 y = 6
-i = x>=3
+i = x >= 3
+print(i)
+
+i = 2
+u = "2"
+l = i != u
+print(l)
+
+x = False
+y = True
+
+p = x or y
+print(p)
+
+a = 2
+a += 3
+print(a)
+
+
+i = (2 + 3) * 4
 print(i)
